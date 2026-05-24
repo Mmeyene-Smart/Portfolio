@@ -40,7 +40,7 @@ const Contact = () => {
               <a href="https://github.com/Mmeyene-Smart" class="icon-box github" target="_blank">
                 <ion-icon name="logo-github"></ion-icon>
               </a>
-              <a href="https://twitter.com/kaksie_codes" class="icon-box twitter" target="_blank">
+              <a href="https://twitter.com/MmeyeneP66801" class="icon-box twitter" target="_blank">
                 <ion-icon name="logo-twitter"></ion-icon>
               </a>
               {/* <a href="https://www.linkedin.com/in/nsikak-akpan/" class="icon-box facebook" target="_blank">
